@@ -7,5 +7,3 @@
 
 <br> future project <br/>
 <br> • esp32 MCU keyboard <br/>
-
-
