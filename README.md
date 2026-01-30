@@ -1,4 +1,4 @@
-this is a game project created by three people
+<br> this is a game project created by three people <br/>
 <br> this a simple clicker game <br/>
 
 <br> feature to be added <br/>
