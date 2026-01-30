@@ -1,11 +1,11 @@
-this is a game project created by three people <br>
-this a simple clicker game <br>
+<br> this is a game project created by three people <br/>
+<br> this a simple clicker game <br/>
 
-feature to be added <br>
-• upgrades (×)/✓<br>
-• shop (×)/✓<br>
+<br> feature to be added <br/>
+<br> • upgrades (×)/✓<br/>
+<br> • shop (×)/✓<br/>
 
-future project <br>
-• esp32 MCU keyboard <br>
+<br> future project <br/>
+<br> • esp32 MCU keyboard <br/>
 
 
